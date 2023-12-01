@@ -1,0 +1,6 @@
+[submodule "Apostel-rust"]
+	path = Apostel-rust
+	url = https://github.com/Slesa/Apostel-rust
+[submodule "Apostel-net"]
+	path = Apostel-net
+	url = https://github.com/Slesa/Apostel-net
