@@ -1,2 +1,29 @@
 # Apostel
-A free POS environment in many different flavourse
+A free POS environment in many different flavours.
+
+## Supported OS
+- Windows
+- MacOS
+- Linux
+- FreeBSD
+- React OS?
+- Haiku?
+
+## Used environments
+- .NET core
+  * Avalonia / Reactive
+  * TerminalGui
+  * Fable
+- Rust
+  * Slint
+  * Tui
+  * Actix
+- Typescript / Javascript
+  * Angular
+
+## Used Techniques
+- CQRS
+- EventSourcing
+- ELM-Architecture
+- SQL / MongoDB
+
