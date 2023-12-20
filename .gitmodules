@@ -4,3 +4,6 @@
 [submodule "Apostel-net"]
 	path = Apostel-net
 	url = https://github.com/Slesa/Apostel-net
+[submodule "Apostel-qt"]
+	path = Apostel-qt
+	url = https://github.com/Slesa/Apostel-qt

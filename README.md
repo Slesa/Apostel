@@ -6,6 +6,7 @@ A free POS environment in many different flavours.
 - MacOS
 - Linux
 - FreeBSD
+- Solaris / 
 - React OS?
 - Haiku?
 
@@ -18,6 +19,9 @@ A free POS environment in many different flavours.
   * Slint
   * Tui
   * Actix
+- C++ 
+  * Qt Desktop
+  * Qt Android
 - Typescript / Javascript
   * Angular
 
@@ -25,5 +29,5 @@ A free POS environment in many different flavours.
 - CQRS
 - EventSourcing
 - ELM-Architecture
-- SQL / MongoDB
-
+- SQL / MongoDB? / Couchbase?
+- (N)Gettext
